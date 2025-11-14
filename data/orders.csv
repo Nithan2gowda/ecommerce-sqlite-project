@@ -1,0 +1,181 @@
+order_id,user_id,order_date,ship_date,status,shipping_address,shipping_city,shipping_state,shipping_postal_code,shipping_country
+1,40,2025-11-14 12:49:20,2025-11-20 12:49:20,shipped,1754 Chris Hill Apt. 812,Port Justinfort,MA,01549,Samoa
+2,85,2025-11-14 12:45:31,2025-11-19 12:45:31,pending,2320 Ann Divide Suite 297,Lemouth,OR,62174,Gabon
+3,108,2025-11-14 12:46:51,2025-11-18 12:46:51,delivered,372 Jasmin Crossing Suite 745,East Patricia,WI,25648,Brazil
+4,179,2025-11-14 12:57:36,2025-11-15 12:57:36,delivered,34110 Lisa Mission,South Amanda,ME,29462,Palau
+5,98,2025-11-14 12:56:40,,shipped,2842 Griffin Throughway,North Tiffanyton,AL,12795,Saint Lucia
+6,193,2025-11-14 12:43:05,2025-11-18 12:43:05,returned,837 Valerie Pine Apt. 040,Andrewsfurt,UT,99793,Sudan
+7,108,2025-11-14 12:46:21,2025-11-19 12:46:21,shipped,065 Jessica Stream,Randallside,MA,66966,Suriname
+8,155,2025-11-14 12:45:47,2025-11-16 12:45:47,processing,03429 Fry Spur,Leonside,PA,18573,Sweden
+9,125,2025-11-14 12:43:58,2025-11-15 12:43:58,delivered,011 Diaz Run,East Brandonville,LA,41019,Croatia
+10,104,2025-11-14 12:53:25,2025-11-20 12:53:25,shipped,124 Morales Station Apt. 682,Riddlefort,HI,01835,United States Minor Outlying Islands
+11,33,2025-11-14 12:43:32,2025-11-19 12:43:32,cancelled,846 Susan Skyway,New Emmaport,HI,85368,Trinidad and Tobago
+12,152,2025-11-14 12:47:26,2025-11-19 12:47:26,pending,5393 Rubio Roads Apt. 724,Branchview,PW,67090,South Georgia and the South Sandwich Islands
+13,110,2025-11-14 12:45:36,2025-11-16 12:45:36,processing,9122 Gonzales Bridge,Adrianberg,DE,25096,Cook Islands
+14,67,2025-11-14 12:40:37,2025-11-18 12:40:37,shipped,5357 Robinson Summit Apt. 237,South Anthony,WV,28325,Montserrat
+15,87,2025-11-14 12:48:16,2025-11-21 12:48:16,processing,975 Laura Mountains Suite 525,Gomezfurt,KS,07464,Japan
+16,108,2025-11-14 12:52:00,2025-11-17 12:52:00,shipped,9851 Amanda Lane Suite 524,West Jessicaview,NV,48251,Cayman Islands
+17,192,2025-11-14 12:43:58,,returned,192 Wendy Forest Apt. 331,Scottshire,MH,52032,British Virgin Islands
+18,58,2025-11-14 12:41:49,,returned,4797 Hale Center,Taylortown,NJ,57119,Botswana
+19,11,2025-11-14 12:47:56,,processing,36379 Phelps Ways,Clinefort,PR,46578,Mexico
+20,6,2025-11-14 12:56:30,2025-11-19 12:56:30,pending,132 Diane Trail Suite 321,East Courtney,AZ,53613,China
+21,172,2025-11-14 12:54:08,2025-11-15 12:54:08,processing,4142 Edward Centers Suite 119,Sullivanburgh,CA,89024,Australia
+22,180,2025-11-14 12:53:36,2025-11-17 12:53:36,processing,080 Matthew Neck,South Ashley,SC,53972,United States Virgin Islands
+23,156,2025-11-14 12:52:05,2025-11-20 12:52:05,delivered,586 Richard Mountain Suite 741,Amberville,HI,29059,Croatia
+24,42,2025-11-14 12:55:51,2025-11-17 12:55:51,pending,8280 Nguyen Drives,Jaredside,IN,45260,Trinidad and Tobago
+25,80,2025-11-14 12:55:25,2025-11-19 12:55:25,returned,843 Graham Hollow,Jeffreyfort,MP,35747,Thailand
+26,102,2025-11-14 12:42:19,2025-11-20 12:42:19,delivered,4634 Moody Union,Julianshire,IA,86372,Croatia
+27,161,2025-11-14 12:43:35,2025-11-16 12:43:35,delivered,95484 Erin Isle,Ericberg,CO,57291,San Marino
+28,176,2025-11-14 12:43:27,2025-11-19 12:43:27,delivered,84669 Rebecca Squares,Lake Brianna,MT,18940,Guinea-Bissau
+29,145,2025-11-14 12:51:30,,shipped,96123 David Club Suite 944,Barnesmouth,GA,89450,Netherlands
+30,170,2025-11-14 12:49:04,,delivered,4131 Marc Radial Apt. 497,Robertsland,GA,09358,Cambodia
+31,4,2025-11-14 12:43:49,2025-11-21 12:43:49,shipped,634 Williams Lodge,South Steven,CT,03810,Cayman Islands
+32,111,2025-11-14 12:57:46,2025-11-17 12:57:46,delivered,95130 Harris Lights,North Joseville,MO,53834,Cuba
+33,182,2025-11-14 12:43:10,2025-11-16 12:43:10,delivered,4020 Clarke Estate Suite 725,Ashleymouth,HI,33663,France
+34,167,2025-11-14 12:46:22,2025-11-17 12:46:22,cancelled,86566 Jimenez Estate Apt. 516,Collinsport,NV,18191,Marshall Islands
+35,199,2025-11-14 12:55:13,2025-11-18 12:55:13,delivered,88936 Megan River,Robinsonshire,AK,47973,Christmas Island
+36,152,2025-11-14 12:42:19,2025-11-17 12:42:19,processing,0870 Andrew Mall,East Coltonhaven,LA,27436,Pakistan
+37,23,2025-11-14 12:55:58,2025-11-17 12:55:58,processing,430 Ryan Plains,North Jose,GA,42713,Sierra Leone
+38,119,2025-11-14 12:56:20,2025-11-19 12:56:20,shipped,255 Tim Crossroad,Jamesbury,OH,66581,Hungary
+39,8,2025-11-14 12:43:19,2025-11-18 12:43:19,processing,503 Kramer Meadow Suite 209,Hodgeston,CO,99892,Senegal
+40,55,2025-11-14 12:56:10,2025-11-17 12:56:10,processing,08492 Jason Inlet,East Jennifer,VI,96468,Macao
+41,153,2025-11-14 12:50:55,2025-11-20 12:50:55,delivered,69700 Heather Inlet,Phillipstad,VT,89667,Hungary
+42,133,2025-11-14 12:43:01,,delivered,26889 Porter Pine Apt. 580,Mariaberg,OK,42891,Sri Lanka
+43,126,2025-11-14 12:50:07,2025-11-19 12:50:07,delivered,3128 Joseph Overpass,New Linda,AS,73952,Afghanistan
+44,166,2025-11-14 12:48:50,2025-11-20 12:48:50,delivered,5445 Brent Street Apt. 765,Marvinside,GA,03131,Costa Rica
+45,24,2025-11-14 12:45:33,2025-11-17 12:45:33,delivered,92078 Davis Isle Suite 528,Luisfort,CA,36996,Kyrgyz Republic
+46,79,2025-11-14 12:52:59,2025-11-20 12:52:59,shipped,9079 Jacob View,New Reneehaven,UT,14207,Gambia
+47,136,2025-11-14 12:47:48,2025-11-17 12:47:48,delivered,528 Danielle Crossroad Suite 729,Warrenfurt,MT,92779,Saint Barthelemy
+48,85,2025-11-14 12:46:53,2025-11-17 12:46:53,processing,178 Fuller Spring Apt. 096,Fergusonburgh,NJ,01161,Lao People's Democratic Republic
+49,65,2025-11-14 12:49:01,2025-11-16 12:49:01,processing,239 Bob Lakes,Port Ericland,MO,37861,Guatemala
+50,31,2025-11-14 12:52:47,2025-11-20 12:52:47,delivered,8207 Bailey Avenue,South Michael,VI,38699,Austria
+51,48,2025-11-14 12:52:37,2025-11-16 12:52:37,shipped,69124 Krista Crescent,Wilkersonshire,DC,19881,Pakistan
+52,186,2025-11-14 12:48:26,2025-11-19 12:48:26,shipped,143 Colleen Mills,Robinville,GU,71866,Palestinian Territory
+53,73,2025-11-14 12:53:53,2025-11-15 12:53:53,processing,279 Phillips Lane Apt. 296,South Elizabeth,VT,13376,Slovakia (Slovak Republic)
+54,93,2025-11-14 12:54:41,2025-11-16 12:54:41,delivered,6393 Chelsey Villages,North Nicholas,TX,40042,Iceland
+55,33,2025-11-14 12:49:07,,pending,88025 Steven Crest,Lake Dianaport,KY,34430,Albania
+56,75,2025-11-14 12:42:54,2025-11-20 12:42:54,delivered,4962 Justin Coves,Perryfurt,NH,62552,Mozambique
+57,193,2025-11-14 12:41:38,2025-11-18 12:41:38,pending,40490 Stanley Street Suite 984,Rangelmouth,MO,56852,Yemen
+58,73,2025-11-14 12:52:51,2025-11-18 12:52:51,processing,1657 James Hills Apt. 938,Lake Michaelland,PW,25514,Guernsey
+59,14,2025-11-14 12:56:19,2025-11-17 12:56:19,shipped,172 Hahn Keys Suite 218,Christophertown,WY,22432,Taiwan
+60,17,2025-11-14 12:50:45,2025-11-18 12:50:45,delivered,450 John Rapid Apt. 103,Port Juan,NE,41589,Spain
+61,176,2025-11-14 12:44:11,2025-11-15 12:44:11,delivered,5708 Warner Orchard Suite 675,Lake Davidville,WY,68235,Gambia
+62,78,2025-11-14 12:46:51,2025-11-15 12:46:51,pending,0511 Jennifer Centers,Taylorstad,PA,71067,Sudan
+63,196,2025-11-14 12:48:03,2025-11-18 12:48:03,delivered,387 Melissa Plain,Meaganland,MN,76863,Belize
+64,58,2025-11-14 12:48:55,2025-11-21 12:48:55,shipped,80798 Brown Center,North Donald,TX,83505,United States of America
+65,114,2025-11-14 12:55:23,2025-11-17 12:55:23,returned,125 Gabriel Turnpike,North Michaelmouth,DC,80942,Albania
+66,79,2025-11-14 12:44:47,2025-11-19 12:44:47,delivered,85021 John Stravenue Suite 742,New Bernard,NH,65988,Togo
+67,190,2025-11-14 12:56:12,2025-11-15 12:56:12,processing,6406 Vaughn Lane Apt. 007,South Brianstad,MD,87437,Bhutan
+68,55,2025-11-14 12:44:29,2025-11-17 12:44:29,processing,43762 William View,Karahaven,MH,40541,Saint Helena
+69,45,2025-11-14 12:47:28,,pending,610 Walker Green Suite 905,East Madisonside,MN,47869,French Guiana
+70,116,2025-11-14 12:54:26,2025-11-20 12:54:26,processing,45739 Jenna Shoal,New Elizabeth,AS,72901,Niger
+71,60,2025-11-14 12:43:01,2025-11-17 12:43:01,delivered,31488 Cynthia Circle Suite 462,Walkerland,IN,73798,Tunisia
+72,117,2025-11-14 12:51:51,2025-11-15 12:51:51,cancelled,551 Moore Cove Apt. 353,Lake Thomasside,IL,06345,Fiji
+73,161,2025-11-14 12:49:44,2025-11-19 12:49:44,cancelled,128 Davis Vista Apt. 536,Chambersborough,LA,45386,Falkland Islands (Malvinas)
+74,109,2025-11-14 12:51:29,2025-11-15 12:51:29,delivered,3634 Brown Roads,Davidton,MO,06738,South Africa
+75,69,2025-11-14 12:46:19,2025-11-21 12:46:19,pending,7049 Julie Street Apt. 784,Lake Hollyton,WI,21288,Peru
+76,79,2025-11-14 12:55:54,2025-11-19 12:55:54,delivered,04724 Lisa Alley Apt. 855,Rogerburgh,MS,17547,Mongolia
+77,74,2025-11-14 12:54:11,2025-11-18 12:54:11,delivered,928 Karen Trail,Maciasport,PA,43865,Kazakhstan
+78,180,2025-11-14 12:50:45,2025-11-18 12:50:45,shipped,9406 Kristina Island Apt. 943,Port Andrewtown,OR,29555,Taiwan
+79,127,2025-11-14 12:41:48,,pending,89159 Gwendolyn Knoll,North Wendyborough,OH,01733,Moldova
+80,111,2025-11-14 12:42:17,2025-11-20 12:42:17,processing,450 Mejia Station Suite 454,Perkinsmouth,OK,81875,Dominican Republic
+81,24,2025-11-14 12:55:41,2025-11-16 12:55:41,delivered,477 Bobby Trace,Brewertown,CA,07012,Reunion
+82,148,2025-11-14 12:48:41,2025-11-19 12:48:41,returned,0835 Elliott Track,East Matthew,CO,72714,Reunion
+83,173,2025-11-14 12:57:20,2025-11-21 12:57:20,pending,73772 Emily Prairie,Robertsonborough,HI,45230,Romania
+84,194,2025-11-14 12:58:16,2025-11-16 12:58:16,delivered,54652 Cantu Land,Arthurfort,AK,10896,Cameroon
+85,72,2025-11-14 12:57:48,2025-11-16 12:57:48,shipped,7754 Johnson Path Apt. 481,Mitchellville,MH,18173,Iceland
+86,126,2025-11-14 12:49:22,2025-11-15 12:49:22,shipped,46969 Matthew Walk Suite 126,West James,MH,80982,United States Minor Outlying Islands
+87,83,2025-11-14 12:54:21,2025-11-20 12:54:21,processing,72111 Ramirez Stream Suite 152,East Derekland,GA,69867,Syrian Arab Republic
+88,106,2025-11-14 12:55:00,2025-11-20 12:55:00,delivered,9538 Jose Fort Apt. 299,South Deborahland,VT,97569,Greenland
+89,103,2025-11-14 12:40:39,2025-11-21 12:40:39,pending,624 Melissa Rest Apt. 223,Port Christopherchester,NH,01360,Hong Kong
+90,23,2025-11-14 12:50:16,2025-11-17 12:50:16,pending,1539 Tim Brook,Robertbury,MN,82948,Norway
+91,198,2025-11-14 12:46:04,2025-11-18 12:46:04,delivered,1699 Jean Isle,Jamesstad,AZ,48186,Argentina
+92,1,2025-11-14 12:41:03,2025-11-20 12:41:03,shipped,61949 Tracy Vista Apt. 984,Port Kevin,WA,85948,Iceland
+93,14,2025-11-14 12:48:22,2025-11-16 12:48:22,delivered,0224 Bishop Place Suite 476,Perezland,VT,60188,Mali
+94,128,2025-11-14 12:57:25,2025-11-20 12:57:25,pending,1617 Charles Squares Suite 331,West Cameron,NJ,61582,Canada
+95,69,2025-11-14 12:47:23,2025-11-19 12:47:23,processing,2213 Christine Turnpike,Craigbury,NE,89694,Norfolk Island
+96,179,2025-11-14 12:51:07,2025-11-18 12:51:07,returned,746 Pratt Vista,Jamesside,WI,11666,Israel
+97,156,2025-11-14 12:49:33,2025-11-21 12:49:33,processing,5239 Coleman Expressway Apt. 066,Kennethshire,NY,46217,Liechtenstein
+98,142,2025-11-14 12:56:10,2025-11-15 12:56:10,pending,9506 Sullivan Mountain,Williamport,UT,47536,Paraguay
+99,30,2025-11-14 12:41:19,2025-11-18 12:41:19,delivered,60546 Baker Roads Apt. 476,Bowenside,VI,32197,Yemen
+100,40,2025-11-14 12:45:16,2025-11-18 12:45:16,processing,050 Ho Bridge Apt. 739,North Matthew,OK,57049,Cape Verde
+101,181,2025-11-14 12:40:54,2025-11-17 12:40:54,shipped,72147 Alexander Parkways Apt. 945,Johnsonstad,CO,40137,Zimbabwe
+102,121,2025-11-14 12:42:42,2025-11-16 12:42:42,pending,1137 Tran Wall,Lake Deborah,NY,26139,Benin
+103,49,2025-11-14 12:46:22,2025-11-19 12:46:22,cancelled,4379 Jordan Centers,Scottmouth,MD,64772,Timor-Leste
+104,18,2025-11-14 12:49:27,2025-11-17 12:49:27,cancelled,233 Richardson Mountain,New Diamondstad,MI,93922,Serbia
+105,88,2025-11-14 12:52:13,2025-11-21 12:52:13,delivered,3398 Burton Port Apt. 207,Alexanderburgh,IA,92433,Costa Rica
+106,73,2025-11-14 12:45:27,2025-11-20 12:45:27,delivered,2923 Gilbert Points Suite 812,North Jessica,DC,22837,Western Sahara
+107,169,2025-11-14 12:55:19,2025-11-18 12:55:19,shipped,050 Davidson Brooks,North Mirandaborough,RI,11354,Singapore
+108,124,2025-11-14 12:57:09,2025-11-17 12:57:09,delivered,240 Becker Shores Apt. 069,New Dwaynemouth,ID,11755,Bhutan
+109,97,2025-11-14 12:56:52,2025-11-18 12:56:52,cancelled,529 Aaron Plain,Lake Taylor,UT,42085,El Salvador
+110,179,2025-11-14 12:50:42,2025-11-16 12:50:42,processing,86058 Combs Loop Suite 287,Duffyland,NM,08937,Heard Island and McDonald Islands
+111,199,2025-11-14 12:46:40,,delivered,64104 Matthew Ferry,New Jenna,WV,12655,Spain
+112,181,2025-11-14 12:41:34,2025-11-21 12:41:34,returned,13726 Myers Vista Suite 645,Angelafurt,WV,79091,Angola
+113,167,2025-11-14 12:51:28,2025-11-16 12:51:28,pending,920 Williams Ports Suite 949,Watsonburgh,NE,25750,Slovenia
+114,129,2025-11-14 12:46:55,2025-11-19 12:46:55,pending,85639 Mario Prairie,Lake Andrewville,MT,56751,Mexico
+115,113,2025-11-14 12:46:22,2025-11-15 12:46:22,shipped,953 Perry Rapids Apt. 224,West Heather,TN,30993,Croatia
+116,185,2025-11-14 12:53:52,2025-11-16 12:53:52,delivered,5971 Ford Port,South Andrew,UT,32062,Antigua and Barbuda
+117,40,2025-11-14 12:52:22,2025-11-15 12:52:22,returned,040 Jessica Knolls Apt. 898,North Dustinhaven,VA,80421,Slovakia (Slovak Republic)
+118,87,2025-11-14 12:52:27,2025-11-19 12:52:27,delivered,003 Decker Roads Suite 374,New Jeffrey,KY,04946,Palau
+119,85,2025-11-14 12:48:13,2025-11-21 12:48:13,shipped,323 Deborah Center Suite 567,South Phillip,ID,83686,Central African Republic
+120,82,2025-11-14 12:48:20,2025-11-20 12:48:20,delivered,232 Shelton Track,Reyesview,FM,11784,Djibouti
+121,139,2025-11-14 12:56:40,2025-11-15 12:56:40,processing,013 William Springs Suite 620,Fieldsborough,ID,39634,Congo
+122,176,2025-11-14 12:48:14,2025-11-17 12:48:14,delivered,99271 Vasquez Valley Suite 353,Lake Heidibury,CO,22498,Guinea
+123,112,2025-11-14 12:50:07,2025-11-15 12:50:07,delivered,8660 Clarence Meadow Apt. 024,Gonzalezbury,NE,99322,Hong Kong
+124,26,2025-11-14 12:53:45,2025-11-18 12:53:45,processing,8669 Kevin Rapids,Millerville,VT,59892,Eritrea
+125,8,2025-11-14 12:52:11,2025-11-15 12:52:11,pending,9614 Hess Mountains,New Tina,NE,45721,Zimbabwe
+126,92,2025-11-14 12:45:11,2025-11-17 12:45:11,processing,94800 Romero Ville Suite 873,Lake Sean,ND,01768,Seychelles
+127,106,2025-11-14 12:47:08,2025-11-19 12:47:08,processing,88545 Andrea Forges,Guerratown,RI,22260,Saint Vincent and the Grenadines
+128,45,2025-11-14 12:44:29,2025-11-15 12:44:29,shipped,9300 Horne Spurs,East Sandraburgh,ME,29005,Kiribati
+129,175,2025-11-14 12:40:42,2025-11-16 12:40:42,delivered,318 Winters Mountain Apt. 364,Ellisonstad,MN,00639,Papua New Guinea
+130,60,2025-11-14 12:54:03,2025-11-18 12:54:03,shipped,232 Bernard Island Apt. 023,South Saraton,HI,20750,Saint Martin
+131,171,2025-11-14 12:55:16,2025-11-15 12:55:16,shipped,7733 Leslie Corner,West Christopherhaven,VT,94603,Liberia
+132,74,2025-11-14 12:51:07,2025-11-20 12:51:07,pending,807 Amy Fields,West Meghan,NC,93610,South Africa
+133,89,2025-11-14 12:57:57,2025-11-19 12:57:57,returned,5771 Black Vista,Millerburgh,IN,84783,France
+134,177,2025-11-14 12:48:32,2025-11-17 12:48:32,processing,4307 Ward Rest,West Brandon,RI,78693,Netherlands
+135,99,2025-11-14 12:56:12,2025-11-21 12:56:12,processing,816 Joseph Street Apt. 756,North Christopher,MD,60008,Ecuador
+136,147,2025-11-14 12:57:57,2025-11-17 12:57:57,returned,2656 Dana Fort,Carlbury,SD,00530,Venezuela
+137,76,2025-11-14 12:58:15,2025-11-15 12:58:15,delivered,15098 Lori Causeway,Smithton,WA,99012,Burkina Faso
+138,71,2025-11-14 12:55:07,2025-11-15 12:55:07,delivered,39727 Wendy Pines,East Nicole,IL,39797,Mayotte
+139,191,2025-11-14 12:58:20,2025-11-15 12:58:20,delivered,80567 William Vista,Jasonchester,NE,48022,Kazakhstan
+140,74,2025-11-14 12:44:27,2025-11-21 12:44:27,delivered,732 Hull Walks Suite 340,Lake Jacobhaven,CT,22366,British Indian Ocean Territory (Chagos Archipelago)
+141,91,2025-11-14 12:58:18,2025-11-16 12:58:18,delivered,98249 Crystal Plain Apt. 148,New Sean,GA,92580,Timor-Leste
+142,174,2025-11-14 12:50:11,2025-11-21 12:50:11,delivered,4495 Holland Plain Apt. 959,North Eugene,OK,02073,Gabon
+143,36,2025-11-14 12:46:42,,delivered,1028 Kara Streets Apt. 423,Stephensonhaven,KY,07667,Cote d'Ivoire
+144,11,2025-11-14 12:42:16,2025-11-17 12:42:16,pending,089 Bond Glen Apt. 139,East Amandafurt,NH,24725,Togo
+145,94,2025-11-14 12:41:18,2025-11-20 12:41:18,cancelled,5147 Williams Tunnel,Webbtown,MN,36983,Gibraltar
+146,84,2025-11-14 12:45:59,2025-11-20 12:45:59,processing,17647 Moses Port,South Brianside,NE,94657,Azerbaijan
+147,139,2025-11-14 12:57:12,2025-11-17 12:57:12,cancelled,7610 Foster Union Suite 476,Lake Adamstad,CA,43351,Paraguay
+148,43,2025-11-14 12:41:16,2025-11-17 12:41:16,cancelled,7280 Stein Plain Suite 261,Guzmantown,WA,15365,Sri Lanka
+149,76,2025-11-14 12:53:13,2025-11-20 12:53:13,delivered,9575 Ortiz Common Suite 425,Rodriguezstad,MA,01040,Slovenia
+150,120,2025-11-14 12:48:10,2025-11-15 12:48:10,returned,8543 Katie Terrace,West John,NV,48232,Tunisia
+151,174,2025-11-14 12:46:02,2025-11-20 12:46:02,shipped,3811 Edward Landing,Underwoodberg,AR,22425,Portugal
+152,143,2025-11-14 12:44:59,,shipped,47488 Green Turnpike,Port Johnberg,FL,51705,Tanzania
+153,68,2025-11-14 12:46:01,2025-11-19 12:46:01,shipped,561 Wilson Throughway Suite 418,Sullivanport,SD,20427,Mozambique
+154,192,2025-11-14 12:58:11,2025-11-20 12:58:11,shipped,6242 Samantha Radial,Lake Kevinton,MP,24875,Ecuador
+155,164,2025-11-14 12:50:38,2025-11-17 12:50:38,processing,6918 Christine Lights Apt. 418,Matthewstad,IA,91002,Uganda
+156,7,2025-11-14 12:53:00,2025-11-19 12:53:00,delivered,5045 Hines Mall,East Michaelchester,MO,71685,Macao
+157,157,2025-11-14 12:57:07,2025-11-16 12:57:07,delivered,815 Garrett Shoals Apt. 493,Jamesfort,MO,07289,Mauritania
+158,119,2025-11-14 12:48:03,2025-11-20 12:48:03,shipped,172 Lucero Estates,Port Samuel,KY,36013,Palau
+159,36,2025-11-14 12:46:41,2025-11-15 12:46:41,processing,03975 Nguyen Parkways Suite 682,Hernandezchester,SD,36456,United States of America
+160,127,2025-11-14 12:58:14,,cancelled,0181 Hansen Fields,Jessicaton,PA,92227,Russian Federation
+161,35,2025-11-14 12:49:51,2025-11-18 12:49:51,delivered,0229 Walsh Burg,Melissashire,HI,14942,Dominica
+162,191,2025-11-14 12:56:05,2025-11-20 12:56:05,shipped,31123 Thompson Locks,Stokesview,SD,87103,Hungary
+163,191,2025-11-14 12:44:35,2025-11-20 12:44:35,shipped,3885 Garrison Square,New Selena,SC,03801,Israel
+164,26,2025-11-14 12:47:53,2025-11-21 12:47:53,shipped,9542 Miller Lake,Shortbury,FM,55289,Dominican Republic
+165,72,2025-11-14 12:56:37,2025-11-15 12:56:37,processing,267 Tina Neck,North Melissa,TN,94781,Netherlands Antilles
+166,114,2025-11-14 12:56:23,2025-11-16 12:56:23,pending,738 Anne Fords,New Georgefort,OK,75809,Montserrat
+167,176,2025-11-14 12:51:07,2025-11-17 12:51:07,returned,6000 Smith Cliffs Apt. 115,Cookfurt,FM,88987,Denmark
+168,92,2025-11-14 12:42:50,2025-11-15 12:42:50,processing,193 Steven Plaza Suite 794,South Vincentborough,AZ,16583,Maldives
+169,32,2025-11-14 12:57:58,2025-11-21 12:57:58,pending,492 Hess Lane Apt. 359,North Jodifurt,VI,91608,Sri Lanka
+170,55,2025-11-14 12:41:20,2025-11-20 12:41:20,returned,4701 Elizabeth Branch,Marcusville,IA,40427,Saint Barthelemy
+171,13,2025-11-14 12:56:51,2025-11-21 12:56:51,returned,4025 Tina Lakes Apt. 120,Woodfort,IL,65348,Mongolia
+172,145,2025-11-14 12:54:55,,delivered,482 Jason Streets Apt. 500,Port Lisa,MS,13535,Saint Kitts and Nevis
+173,54,2025-11-14 12:45:58,2025-11-19 12:45:58,cancelled,073 Ashley Drives Suite 256,Michellemouth,FM,28992,Guyana
+174,85,2025-11-14 12:47:06,2025-11-21 12:47:06,cancelled,8059 Harrell Circle,South Dianaton,VA,82999,San Marino
+175,1,2025-11-14 12:41:21,2025-11-17 12:41:21,pending,687 Madison Route Apt. 996,Elliotttown,AS,02509,Yemen
+176,34,2025-11-14 12:53:53,2025-11-19 12:53:53,processing,879 Breanna Brook Suite 709,Port Jessica,UT,02682,Belarus
+177,170,2025-11-14 12:52:16,,pending,3502 Luna Loaf,Port Thomasmouth,TX,94038,Afghanistan
+178,61,2025-11-14 12:45:13,2025-11-19 12:45:13,processing,015 Holloway River Apt. 305,New Stephen,NM,20284,Mauritania
+179,14,2025-11-14 12:50:51,2025-11-16 12:50:51,shipped,25457 Donna Run Apt. 078,West Anneton,CT,72639,Namibia
+180,191,2025-11-14 12:45:53,2025-11-15 12:45:53,delivered,70924 Joshua Trace,Carolinefort,WA,47186,Heard Island and McDonald Islands

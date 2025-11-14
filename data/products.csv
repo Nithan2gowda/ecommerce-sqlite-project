@@ -1,0 +1,151 @@
+product_id,name,category,brand,price,stock,weight_kg,created_at,is_active
+1,Yourself ten,Electronics,"Fritz, Reed and Wagner",513.34,379,2.82,2023-11-15,True
+2,Detail forget they,Books,Mason-Reyes,182.45,52,6.8,2024-11-03,True
+3,Goal piece mouth,Electronics,Sampson-Garcia,714.28,302,4.28,2025-11-11,True
+4,One,Home,Christensen-Payne,28.69,119,5.1,2024-06-10,True
+5,Eight statement,Home,Davis-Higgins,26.1,366,6.53,2025-07-26,True
+6,Little office listen,Home,"Chen, Dixon and Davidson",438.23,229,5.93,2025-05-01,True
+7,Drive reflect do,Electronics,Sanders PLC,648.5,388,8.08,2025-07-30,True
+8,Ten stage education,Fashion,Winters Inc,560.02,142,1.64,2024-06-27,True
+9,Meet song time,Fashion,Salazar-Austin,765.98,52,1.02,2024-08-23,True
+10,Final however,Toys,"Smith, Riley and Rasmussen",81.89,176,6.08,2024-08-03,True
+11,Century professor speak,Books,"Collins, Smith and Parker",646.67,235,5.41,2024-11-02,False
+12,Perform morning finally,Sports,Avila-Reyes,778.63,40,5.57,2024-08-19,True
+13,Feel one bill,Beauty,"Torres, Eaton and Dorsey",664.38,453,8.63,2024-09-17,True
+14,Condition show media,Books,Farmer-Farmer,463.99,35,0.55,2024-05-13,True
+15,Great employee worry ball,Fashion,Hill-Schultz,186.18,40,8.57,2025-07-08,True
+16,All charge pretty,Sports,Hudson-Mcknight,693.85,142,4.59,2024-02-10,False
+17,Teach network lot,Home,"Turner, Massey and Sanchez",668.12,189,3.62,2025-03-21,True
+18,Open particularly,Books,Smith Inc,537.79,479,6.87,2023-12-23,True
+19,Professional try maybe government,Books,Nelson-Fisher,61.76,87,5.39,2024-09-01,True
+20,Go official feel manager,Sports,Floyd Inc,199.62,194,2.77,2023-12-13,True
+21,Will magazine,Books,Reed-Stone,740.69,285,2.27,2024-10-08,True
+22,Reach film among,Toys,"Walker, Gallegos and Sims",262.8,397,0.65,2024-06-24,True
+23,Charge recently others party,Toys,"Olson, Williams and Whitaker",658.33,161,4.07,2024-12-01,True
+24,Energy will dinner finish,Beauty,"Martin, Padilla and West",57.62,448,7.21,2024-08-30,True
+25,Top staff crime,Sports,Gonzalez-Crawford,174.04,202,8.86,2024-01-07,True
+26,Off any,Home,Smith Inc,516.07,135,1.48,2024-04-26,True
+27,Family little standard,Beauty,Ray-Clay,597.27,134,7.5,2025-07-28,True
+28,Easy push,Beauty,"Ramirez, Patel and Hopkins",345.6,204,3.68,2023-11-24,True
+29,Idea,Home,Schwartz-Graham,797.87,260,4.99,2024-03-18,True
+30,Start surface skill,Toys,Johnson-Ryan,605.85,56,1.61,2025-10-19,False
+31,Address run,Books,Ward LLC,132.19,216,6.0,2024-10-02,True
+32,Building significant,Beauty,Brewer-Clark,310.89,239,5.34,2023-12-29,True
+33,Wrong special movie,Toys,"Donaldson, Johnson and Johnson",777.01,482,0.21,2025-01-10,True
+34,Officer include before,Books,Davis-Hopkins,577.97,453,5.42,2024-07-04,True
+35,Bring unit social song,Books,"Rose, Salas and Duncan",217.13,174,1.2,2025-08-13,True
+36,Sure city,Sports,"Luna, Wright and Gonzalez",350.64,1,9.54,2024-06-09,True
+37,Similar several,Fashion,Moore-Miller,701.3,497,5.06,2025-04-27,True
+38,Evening painting,Electronics,Massey Ltd,147.03,445,6.29,2024-05-11,False
+39,Billion music minute,Beauty,Hunt-Baker,674.13,311,2.07,2025-08-23,True
+40,Note compare,Home,Fuentes-Willis,302.26,276,9.54,2024-08-25,True
+41,Maintain president way,Electronics,Phelps-Simmons,738.34,306,3.31,2024-11-07,False
+42,Outside several drop,Fashion,Woods-Johnson,20.48,449,9.85,2024-06-13,True
+43,Firm toward,Home,Prince Ltd,646.39,29,2.48,2025-06-10,True
+44,Live wind,Electronics,Jacobs-Donovan,456.05,43,7.35,2025-01-06,True
+45,Rule edge position,Toys,James Group,653.74,272,7.68,2025-08-21,True
+46,Boy new,Sports,"Serrano, Cummings and Chandler",107.07,484,5.54,2024-04-11,True
+47,Child such,Toys,Smith and Sons,215.72,310,4.29,2024-06-23,True
+48,Election side soon,Beauty,Wolf-Hayes,173.38,386,7.33,2024-11-01,True
+49,Statement scene attention,Fashion,"Baker, Frey and Davis",164.92,204,9.95,2024-06-28,False
+50,Outside audience,Sports,Stokes Group,521.65,460,5.22,2025-07-15,True
+51,Trade or,Home,Sellers-Sims,101.2,32,3.45,2024-04-18,True
+52,Staff often,Home,Becker PLC,472.71,301,2.28,2025-03-30,True
+53,Page action,Books,Barnett and Sons,61.44,30,2.37,2024-10-31,True
+54,Say image,Toys,Kennedy Ltd,724.81,169,0.8,2025-04-30,True
+55,Magazine citizen,Books,Harrison and Sons,194.21,248,2.22,2024-01-16,True
+56,Big much,Beauty,"Hammond, Wood and Hall",110.19,295,4.78,2023-12-02,True
+57,Air hot interesting,Toys,"Morales, Smith and Booker",628.77,208,1.99,2024-03-15,True
+58,Boy sense goal American,Sports,"Graham, Rowland and Stone",82.06,181,4.29,2025-09-15,True
+59,Professor edge spring,Books,"Garcia, King and Garcia",376.28,27,6.77,2024-08-08,True
+60,Live huge rate,Electronics,Andrade and Sons,787.41,31,4.09,2024-12-21,True
+61,Film rock,Toys,Munoz Ltd,274.75,55,2.56,2025-07-03,True
+62,Short may federal,Sports,Morrison and Sons,156.22,71,4.28,2024-10-10,False
+63,Future what,Home,Cruz-Hoffman,226.44,447,9.24,2024-05-28,True
+64,Heart around small,Toys,Maxwell Inc,357.29,438,5.55,2025-09-19,True
+65,Left entire actually,Beauty,Price and Sons,45.22,428,0.25,2024-10-11,True
+66,The this,Toys,Harris-Hahn,79.14,434,2.44,2024-12-04,True
+67,Southern country,Sports,Mcdonald Ltd,328.1,109,8.66,2023-11-30,True
+68,Itself ability,Home,"Bell, Lopez and Holland",722.44,194,0.12,2024-06-18,True
+69,Price future others,Toys,Davis-Jones,315.39,401,4.6,2024-02-14,True
+70,Star top,Books,Cruz-Smith,341.29,401,5.6,2025-03-10,True
+71,Necessary write authority,Home,Thompson-Robbins,576.13,97,3.04,2023-12-20,False
+72,Loss ability letter,Beauty,Nguyen Inc,775.12,376,5.47,2024-06-18,True
+73,Maintain defense,Electronics,"Wright, Thomas and Johnson",599.64,25,5.88,2025-04-21,True
+74,Mean past,Toys,Garcia Ltd,404.77,271,1.66,2025-06-22,True
+75,Catch property training,Electronics,Barnes PLC,768.82,435,1.94,2025-07-25,True
+76,Listen laugh,Books,Mason PLC,478.05,441,2.43,2025-08-01,True
+77,Probably leave,Beauty,Bryan Ltd,100.31,126,5.83,2024-01-20,True
+78,Before choose,Electronics,Hudson-Anderson,36.59,214,6.61,2025-06-16,True
+79,Pretty team season,Fashion,Lawrence and Sons,454.36,478,2.68,2024-02-13,True
+80,Almost plan open,Fashion,"Sharp, Thompson and Ayers",537.43,122,2.73,2024-12-22,True
+81,Painting white center,Books,"Medina, Rodriguez and Wolfe",109.05,153,4.63,2024-03-17,True
+82,Teacher it continue,Electronics,Kramer-Boone,743.57,4,4.64,2024-09-26,True
+83,Onto responsibility,Electronics,Vazquez Group,798.77,37,5.42,2025-05-28,True
+84,Girl official treat occur,Home,Bell Inc,407.18,477,3.56,2023-11-24,True
+85,Reach if,Home,Steele LLC,59.69,189,2.92,2025-01-05,True
+86,Consumer either,Beauty,Dennis Ltd,353.36,360,3.09,2024-07-02,True
+87,Cup great box,Toys,"Wade, James and Carpenter",787.16,334,5.34,2025-04-02,True
+88,Role partner give,Beauty,"Page, Sullivan and Burton",535.95,153,9.32,2025-07-31,True
+89,Line quality none,Home,Harmon Group,87.35,135,1.24,2024-11-11,True
+90,Soldier line,Beauty,Kemp-Macdonald,90.09,79,2.8,2024-06-11,True
+91,Energy world treat,Books,Stewart-Francis,485.84,175,2.12,2024-03-08,True
+92,Weight modern,Fashion,Hodges-Pacheco,509.22,258,4.94,2024-10-17,False
+93,Service board,Toys,"Parks, Mann and Leon",724.74,26,1.01,2024-12-05,True
+94,Role stuff answer,Fashion,Rivera-Griffin,341.74,22,0.14,2024-11-13,True
+95,Modern,Books,Madden-Hicks,618.04,134,1.7,2024-07-07,True
+96,Too provide,Books,"Blake, Williams and Howell",356.26,218,5.65,2024-10-23,False
+97,Training notice resource,Books,"Warner, Lewis and Roberts",93.94,462,1.58,2025-10-29,True
+98,Sing he kind,Fashion,Johnson-Charles,33.64,298,5.57,2024-11-09,True
+99,Turn sell source,Electronics,Camacho-Thompson,346.68,157,3.71,2025-01-17,True
+100,History well night,Toys,"Green, Stafford and Simon",746.8,20,9.0,2024-08-27,True
+101,Operation chair,Home,Potts LLC,172.01,341,1.12,2025-01-28,True
+102,Surface arm third piece,Toys,"Robinson, Baker and Harris",625.19,208,9.74,2024-02-22,True
+103,Board also,Home,"Miller, Gonzales and Potts",600.83,442,1.71,2025-07-17,True
+104,Suddenly wear,Home,Simmons LLC,640.91,451,4.18,2024-02-12,True
+105,Player,Fashion,"Conway, Johnson and Gentry",147.59,400,9.32,2025-10-16,True
+106,Meeting number,Toys,Rice Ltd,642.78,376,8.13,2025-09-17,True
+107,Worry majority,Toys,Moody LLC,217.11,359,1.17,2024-07-18,True
+108,Bit practice day,Toys,"Hopkins, Martin and Jordan",698.37,240,2.3,2025-06-01,True
+109,Surface program,Sports,Patterson Group,654.19,179,3.12,2024-05-24,True
+110,Forward another picture,Home,Taylor PLC,637.3,114,0.33,2025-06-09,True
+111,Rise miss,Fashion,Holder LLC,158.54,142,8.66,2024-06-21,True
+112,Including,Fashion,"Stevenson, Stewart and Miller",773.68,179,6.45,2024-05-17,True
+113,Security spring expert,Toys,Stevenson-Bates,322.74,274,3.38,2024-03-11,True
+114,Less coach,Fashion,"Richardson, Martin and Cook",26.94,91,5.85,2025-03-03,True
+115,Leg process medical,Electronics,Martin-Coleman,786.92,55,6.01,2025-03-10,True
+116,Art argue,Toys,Wilson-Smith,279.82,160,4.42,2025-05-13,True
+117,Manager occur grow,Electronics,Wallace-Evans,787.47,197,9.01,2024-08-05,True
+118,Major much,Electronics,Lane Ltd,156.11,362,4.42,2024-06-05,True
+119,Fly somebody,Toys,"Moreno, Glover and Simmons",418.34,275,6.9,2024-04-20,True
+120,System state,Books,Osborne-Johnson,752.51,343,2.05,2024-01-16,True
+121,Campaign full month,Books,"Shaw, Smith and Bonilla",347.88,471,3.37,2024-01-27,True
+122,Not sit water,Toys,Chen-Hanson,254.56,63,7.23,2025-03-22,True
+123,Buy know,Fashion,"Maldonado, Powers and Fischer",243.76,341,4.14,2025-01-22,True
+124,View must military according,Fashion,Brady Group,324.91,283,1.36,2024-01-25,True
+125,Whose,Sports,"Smith, Ward and York",339.25,346,7.51,2024-01-10,True
+126,Ten situation rate,Beauty,Edwards Group,143.35,154,4.12,2024-11-20,True
+127,Level investment worker,Fashion,Bender-Nguyen,667.81,146,2.18,2025-03-17,True
+128,Again glass anything,Beauty,"Meyer, Smith and Cox",629.68,335,3.29,2025-09-05,False
+129,Thing training degree,Books,Smith Ltd,356.22,109,5.16,2025-06-08,True
+130,Parent operation water,Toys,"Price, Barrett and Noble",636.02,376,1.78,2024-06-12,True
+131,Person organization only,Beauty,Brown-Miller,72.41,339,6.37,2024-10-14,True
+132,Far husband,Toys,Williams-Greene,271.47,487,7.54,2024-09-25,True
+133,Outside sea,Home,Foster-Bentley,539.87,412,2.07,2024-06-24,False
+134,Remember top drug,Home,Hughes-Sellers,24.42,243,6.15,2024-07-28,True
+135,Cut miss,Sports,Williams-Shaw,615.95,212,8.87,2025-02-01,True
+136,His set situation,Books,Brown-Foley,462.66,356,3.9,2025-07-22,True
+137,Blue tree street,Home,Crawford-Williamson,322.72,335,6.91,2025-06-21,True
+138,My magazine,Toys,Hernandez-Parker,714.66,394,8.87,2024-12-07,True
+139,Her guy,Home,"Jones, Norris and Clayton",623.84,90,8.06,2025-06-13,True
+140,Identify short sea,Sports,Ward Group,558.25,25,5.62,2025-02-11,False
+141,Hot arm feeling section,Electronics,Peterson Group,734.39,233,1.42,2024-09-02,True
+142,Thousand same,Beauty,"Castro, Anderson and Daniels",374.39,286,5.99,2024-07-28,True
+143,Try deal,Sports,Hubbard-Taylor,760.28,313,8.17,2025-07-27,True
+144,Return look,Sports,Mills Inc,714.16,425,9.08,2025-09-30,True
+145,Imagine,Home,Hull-Perry,359.5,380,8.63,2025-04-04,True
+146,Young author,Toys,Mckinney-Ellis,362.81,126,8.41,2024-07-15,True
+147,Degree,Toys,Conrad-Jordan,225.46,266,4.9,2024-04-27,False
+148,Class price,Sports,Glenn-Romero,195.2,39,7.16,2025-07-11,True
+149,Board her action,Fashion,"Garza, Crawford and Cervantes",191.42,163,8.94,2025-06-19,True
+150,Thank,Home,Horton LLC,69.06,118,3.89,2025-03-24,True
